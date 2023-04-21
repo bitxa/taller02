@@ -7,3 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: noticias_loja
+- file: noticias_ecuador
+- file: noticias_deportivas
